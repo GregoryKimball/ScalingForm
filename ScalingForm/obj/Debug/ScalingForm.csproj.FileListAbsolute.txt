@@ -1,0 +1,5 @@
+C:\Users\Gregory\Documents\GitHub\ScalingForm\Example1\ScalingForm\obj\Debug\ScalingForm.csprojResolveAssemblyReference.cache
+C:\Users\Gregory\Documents\GitHub\ScalingForm\Example1\ScalingForm\bin\Debug\ScalingForm.dll
+C:\Users\Gregory\Documents\GitHub\ScalingForm\Example1\ScalingForm\bin\Debug\ScalingForm.pdb
+C:\Users\Gregory\Documents\GitHub\ScalingForm\Example1\ScalingForm\obj\Debug\ScalingForm.dll
+C:\Users\Gregory\Documents\GitHub\ScalingForm\Example1\ScalingForm\obj\Debug\ScalingForm.pdb
